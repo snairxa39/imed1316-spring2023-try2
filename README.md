@@ -1,1 +1,2 @@
-This is the README file for my web content for IMED1316 Spring 2023
+# Painting_Board
+Created with CodeSandbox
